@@ -1,0 +1,14 @@
+{
+  "name": "Credit Card ID Badge - PDF Generator",
+  "version": "1.0.0",
+  "description": "Generates PDFs for CR80 ID badge printing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Barnes",
+  "license": "ISC",
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  }
+}
